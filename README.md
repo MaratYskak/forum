@@ -1,8 +1,7 @@
-# forum 我靠
+# forum 
 
-## Authors:
-- 不是 Marat94kz 
-- 不是 Nik
+## Author:
+- Marat94kz 
 
 ## Usage: how to run
   `go run ./cmd`  
